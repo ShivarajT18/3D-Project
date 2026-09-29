@@ -1,0 +1,81 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void ArrowsEnlarge_Start_mDA9C92C13F5D2AA982C374C0396820DBEAECF288 (void);
+extern void ArrowsEnlarge_OnMouseEnter_m737262683FFED17A08826536BD31E8997ACD40A9 (void);
+extern void ArrowsEnlarge_OnMouseExit_m7F8018AF5660D0F55464A162C6B6AEA11C123EC9 (void);
+extern void ArrowsEnlarge_OnMouseDown_mA66A5972C3E6CAACC50B6F03A23BDB850AD4ED89 (void);
+extern void ArrowsEnlarge__ctor_m7FFC3177F747AABA26253C12B0C69C4F6526C2AB (void);
+extern void ArrowScript_OnMouseDown_m07276ACDFDAD3B1A3A614F42E2699694C0051F50 (void);
+extern void ArrowScript_ChangeSphere_mC2AAFE2A7B89185D98C30A8A452B8EFD2E582F2C (void);
+extern void ArrowScript__ctor_m49CA01FF02363891A4F87C9B9FEB66798F181794 (void);
+extern void CameraScript_Update_mDAE6380A029D3E301E4432169484CCE2E881E873 (void);
+extern void CameraScript_LateUpdate_m42F00D6F15A466E628762DC7ADBD8272EF43F583 (void);
+extern void CameraScript__ctor_mDCE666CE7EF072645A59FD192F310106688922B2 (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[15] = 
+{
+	ArrowsEnlarge_Start_mDA9C92C13F5D2AA982C374C0396820DBEAECF288,
+	ArrowsEnlarge_OnMouseEnter_m737262683FFED17A08826536BD31E8997ACD40A9,
+	ArrowsEnlarge_OnMouseExit_m7F8018AF5660D0F55464A162C6B6AEA11C123EC9,
+	ArrowsEnlarge_OnMouseDown_mA66A5972C3E6CAACC50B6F03A23BDB850AD4ED89,
+	ArrowsEnlarge__ctor_m7FFC3177F747AABA26253C12B0C69C4F6526C2AB,
+	ArrowScript_OnMouseDown_m07276ACDFDAD3B1A3A614F42E2699694C0051F50,
+	ArrowScript_ChangeSphere_mC2AAFE2A7B89185D98C30A8A452B8EFD2E582F2C,
+	ArrowScript__ctor_m49CA01FF02363891A4F87C9B9FEB66798F181794,
+	CameraScript_Update_mDAE6380A029D3E301E4432169484CCE2E881E873,
+	CameraScript_LateUpdate_m42F00D6F15A466E628762DC7ADBD8272EF43F583,
+	CameraScript__ctor_mDCE666CE7EF072645A59FD192F310106688922B2,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[15] = 
+{
+	15294,
+	15294,
+	15294,
+	15294,
+	15294,
+	15294,
+	15294,
+	15294,
+	15294,
+	15294,
+	15294,
+	15294,
+	15294,
+	26577,
+	15294,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	15,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
